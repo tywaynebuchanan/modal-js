@@ -8,7 +8,6 @@ const overlay = document.querySelector(".overlay");
 const openModal = () =>{
     modal.classList.remove("hidden");
         overlay.classList.remove("hidden");
-
 }
 
 const closeModal = () =>{
